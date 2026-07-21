@@ -1,0 +1,19 @@
+# WorkBuddy workspace memory
+.workbuddy/
+
+# Build output
+build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon generation cache
+Icon?
+
+# Xcode / Swift
+*.swiftpm/
+DerivedData/
+*.xcodeproj/
+*.xcworkspace/
